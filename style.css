@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 thead
 {
     width: 20px;
@@ -9,4 +10,5 @@ thead
 thead,td
 {
     padding: 12px 12px 12px 12px;
+    font-family: "Michroma", sans-serif;
 }
