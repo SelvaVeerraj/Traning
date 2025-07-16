@@ -1,0 +1,12 @@
+thead
+{
+    width: 20px;
+    height: 20px;
+    background-color: #0000ff;
+    font-size:20px;
+    font-weight:bold;
+}
+thead,td
+{
+    padding: 12px 12px 12px 12px;
+}
